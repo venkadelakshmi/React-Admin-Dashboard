@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "id": 3,
+      "title": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "genre": "Drama",
+      "release_year": 1994
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "genre": "Crime",
+      "release_year": 1972
+    },
+    {
+      "id": 3,
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "genre": "Sci-Fi",
+      "release_year": 2010
+    },
+    {
+      "id": 8,
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "genre": "Crime",
+      "release_year": 1994
+    },
+    {
+      "id": 5,
+      "title": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "genre": "Action",
+      "release_year": 2008
+    },
+    {
+      "id": 6,
+      "title": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "genre": "Drama",
+      "release_year": 1994
+    },
+    {
+      "id": 7,
+      "title": "The Matrix",
+      "director": "Lana and Lilly Wachowski",
+      "genre": "Sci-Fi",
+      "release_year": 1999
+    },
+    {
+      "id": 8,
+      "title": "Schindler's List",
+      "director": "Steven Spielberg",
+      "genre": "Drama",
+      "release_year": 1993
+    },
+    {
+      "id": 9,
+      "title": "Titanic",
+      "director": "James Cameron",
+      "genre": "Romance",
+      "release_year": 1997
+    },
+    {
+      "id": 10,
+      "title": "Avatar",
+      "director": "James Cameron",
+      "genre": "Sci-Fi",
+      "release_year": 2009
+    }
+  ]
+}
